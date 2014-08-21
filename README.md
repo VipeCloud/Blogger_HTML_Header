@@ -1,7 +1,7 @@
 Blogger_HTML_Header
 ===================
 
-Here's how to add an html header to a Blogger dynamic view. Add the below before the </body> tag. Should work on mobile and desktop view. 
+Here's how to add an html header to a Blogger dynamic view. Add the below before the `</body>` tag. Should work on mobile and desktop view. 
 
 Inspired from:
 http://www.frontendlab.net/2013/03/how-to-add-facebook-like-box-plugin-in.html
