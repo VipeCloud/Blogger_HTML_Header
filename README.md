@@ -6,8 +6,8 @@ Here's how to add an html header to a Blogger dynamic view. Add the below before
 To make work for you, you'll have to host your own iframe and customize the iframe_height variable.
 
 Inspired from:
-http://www.frontendlab.net/2013/03/how-to-add-facebook-like-box-plugin-in.html
-http://www.atozbuzz.com/2012/07/edit-blogger-mobile-templates.html
+- http://www.frontendlab.net/2013/03/how-to-add-facebook-like-box-plugin-in.html
+- http://www.atozbuzz.com/2012/07/edit-blogger-mobile-templates.html
 
 
 ```
