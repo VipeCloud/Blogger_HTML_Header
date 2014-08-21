@@ -1,4 +1,4 @@
-Blogger_HTML_Header
+Add an HTML Header to a Blogger Dynamic View
 ===================
 
 Here's how to add an html header to a Blogger dynamic view. Add the below before the `</body>` tag. Should work on mobile and desktop view. The checkSearchBar() function is designed to capture the end of the dynamic loading. 
