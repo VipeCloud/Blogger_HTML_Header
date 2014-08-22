@@ -1,9 +1,9 @@
 Add an HTML Header to a Blogger Dynamic View
 ===================
 
-Here's how to add an html header to a Blogger dynamic view. Add the below before the `</body>` tag. Should work on mobile and desktop view. The checkSearchBar() function is designed to capture the end of the dynamic loading. 
+Here's how to add an html header to a Blogger dynamic view. In this case we are adding a <a href="http://www.hellobar.com">Hello Bar</a>. Add the below before the `</body>` tag. Should work on mobile and desktop view. The checkSearchBar() function is designed to capture the end of the dynamic loading. 
 
-To make work for you, you'll have to host your own iframe and customize the iframe_height variable.
+To make this work for you, you'll have to host your own iframe (edit the iframe src below) and customize the iframe_height variable in EACH the mobile and the desktop view.
 
 Inspired from:
 - http://www.frontendlab.net/2013/03/how-to-add-facebook-like-box-plugin-in.html
